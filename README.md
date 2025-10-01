@@ -26,7 +26,7 @@ Make sure you have installed:
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:glafver/skillup.git
+git clone git clone git@github.com:glafver/skillup.git
 cd skillup
 ```
 
